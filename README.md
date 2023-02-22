@@ -1,7 +1,7 @@
 # GustiNanda
 # Halo semua! 
 
-Perkenalkan nama saya **Gusti Nanda**.\
+Perkenalkan nama saya **Gusti Nanda**
 
 Saya calon seorang **Fullstack Web Developer** di [Dicoding](https://www.dicoding.com/).
 
