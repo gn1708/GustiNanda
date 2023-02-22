@@ -9,7 +9,7 @@ Saya disini sebelumnya sudah pernah mengikuti pelatihan Junior Web Programming d
 
 
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](instagram.com/gustinanda1708) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](www.instagram.com/gustinanda1708) ku ya.
 
 <p align="left">
 <a href="https://github.com/gn1708">
